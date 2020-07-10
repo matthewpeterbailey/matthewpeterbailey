@@ -1,4 +1,4 @@
-![Header](./Images/Header.png)
+![Header](https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Header.png)
 
 ## Matthew Bailey, PhD
 
@@ -18,13 +18,13 @@ Angular 9 (TS), Azure Function Apps (C#), Express/ Node (JS/ TS), Webforms (VB ;
 
 <!-- ![Profile](./Images/MatthewBailey.JPG)  -->
 
-[1]: ./images/Twitter.png
+[1]: https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Twitter.png
 [2]: https://twitter.com/mattbaileydev "Go to twitter"
-[3]: ./images/Instagram.png
+[3]: https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Instagram.png
 [4]: https://www.instagram.com/chemicalspaceman/?hl=en "Go to Instagram"
-[5]: ./images/LinkedIn.png
+[5]: https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/LinkedIn.png
 [6]: https://www.linkedin.com/in/matthewpeterbailey/ "Go to LinkedIn"
-[7]: ./images/Work.png
+[7]: https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Work.png
 [8]: https://www.plymouth.ac.uk/staff/matthew-bailey "Go to PenCTU"
 
 <!--
