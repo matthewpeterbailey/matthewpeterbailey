@@ -30,14 +30,22 @@ Prior to that I spent a year of my life proving that there exists a weak solutio
 
 ###### Semiclassical wave function
 
-$$ \psi^P = \exp\left(i\frac{2\sqrt{\mu}}{\hbar}\text{sgn}(x_2)\sqrt{|x| - x_1} \right) $$
+<div style="text-align:center">
+<img src="https://latex.codecogs.com/svg.latex?\small&space;\psi^P = \exp\left(i\frac{2\sqrt{\mu}}{\hbar}\text{sgn}(x_2)\sqrt{|x| - x_1} \right)" />
+</div>
 
 ###### Semiclassical Nelson diffusion
 
-$$dX_t = b(X_t)dt + \epsilon dB_t$$
-where $\epsilon = \sqrt{\hbar}$ and $B_t$ is a Brownian motion, with drift
-$$b(x) = \sqrt{\mu}\frac{\text{sgn}(x_2)}{\sqrt{|x|-x_1}}\frac{x}{|x|}+ \sqrt{\mu}\frac{\text{sgn}(x_2)}{\sqrt{|x|-x_1}}(-1,0,0).$$
+<div style="text-align:center">
+<img src="https://latex.codecogs.com/svg.latex?\small&space;dX_t = b(X_t)dt + \epsilon dB_t" />
+</div>
 
+where <img src="https://latex.codecogs.com/svg.latex?\small&space;\epsilon = \sqrt{\hbar}" /> and <img src="https://latex.codecogs.com/svg.latex?\small&space;B_t" /> is a Brownian motion, with drift
+
+<div style="text-align:center">
+<img src="https://latex.codecogs.com/svg.latex?\small&space;b(x) = \sqrt{\mu}\frac{\text{sgn}(x_2)}{\sqrt{|x|-x_1}}\frac{x}{|x|}+ \sqrt{\mu}\frac{\text{sgn}(x_2)}{\sqrt{|x|-x_1}}(-1,0,0)." />
+
+</div>
 ### Get in touch:
 
 [![Twitter][1]][2] [![Instagram][3]][4] [![LinkedIn][5]][6] [![Work][7]][8]
