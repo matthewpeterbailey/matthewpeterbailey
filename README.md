@@ -16,7 +16,29 @@ Angular 9 (TS), Azure Function Apps (C#), Express/ Node (JS/ TS), Webforms (VB),
 
 Github, Sourcetree, Postman, VS Code, Visual Studio, Microsoft SQL Server Management
 
-#### How to reach me:
+### Education
+
+**Surrey University - PhD, Mathematics**, "Modelling sleep-wake regulation : the dynamics, bifurcations and applications of the two process model."
+
+###### I made a pretty picture about sleep patterns
+
+<div style="text-align:center"><img src="https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Thesis.PNG" /></div>
+<!-- ![Thesis](https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Thesis.PNG) -->
+
+**Swansea University - MRes, Stochastic Processes**, _"On the Semiclassical Parabolic Nelson Diffusion"_.
+Prior to that I spent a year of my life proving that there exists a weak solution for the following stochastic differential equation:
+
+###### Semiclassical wave function
+
+$$ \psi^P = \exp\left(i\frac{2\sqrt{\mu}}{\hbar}\text{sgn}(x_2)\sqrt{|x| - x_1} \right) $$
+
+###### Semiclassical Nelson diffusion
+
+$$dX_t = b(X_t)dt + \epsilon dB_t$$
+where $\epsilon = \sqrt{\hbar}$ and $B_t$ is a Brownian motion, with drift
+$$b(x) = \sqrt{\mu}\frac{\text{sgn}(x_2)}{\sqrt{|x|-x_1}}\frac{x}{|x|}+ \sqrt{\mu}\frac{\text{sgn}(x_2)}{\sqrt{|x|-x_1}}(-1,0,0).$$
+
+### Get in touch:
 
 [![Twitter][1]][2] [![Instagram][3]][4] [![LinkedIn][5]][6] [![Work][7]][8]
 
