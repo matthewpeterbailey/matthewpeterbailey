@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Footer](./Images/Footer.jpg)
+![Footer](https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Footer.jpg)
