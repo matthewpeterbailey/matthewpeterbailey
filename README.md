@@ -8,9 +8,13 @@
 
 I am software developer leading the development team at PenCTU (Peninsula Clinincal Trials Unit, Faculty of Health, Plymouth University).
 
-##### Current tech includes:
+###### Languages used in current role:
 
-Angular 9 (TS), Azure Function Apps (C#), Express/ Node (JS/ TS), Webforms (VB ;()
+Angular 9 (TS), Azure Function Apps (C#), Express/ Node (JS/ TS), Webforms (VB), SQL
+
+###### Tech used in current role:
+
+Github, Sourcetree, Postman, VS Code, Visual Studio, Microsoft SQL Server Management
 
 #### How to reach me:
 
