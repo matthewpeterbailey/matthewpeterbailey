@@ -28,6 +28,11 @@ Github, Sourcetree, Postman, VS Code, Visual Studio, Microsoft SQL Server Manage
 
 ---
 
+#### Github overview
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewpeterbailey&layout=compact)](https://github.com/matthewpeterbailey)
+
+
 #### Get in touch:
 
 [![Twitter][1]][2] [![Instagram][3]][4] [![LinkedIn][5]][6] [![Work][7]][8]
