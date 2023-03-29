@@ -1,5 +1,3 @@
-![Header](https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Header.png)
-
 ### Matthew Bailey, PhD
 
 ---
@@ -28,16 +26,11 @@ Github, Sourcetree, Postman, VS Code, Visual Studio, Microsoft SQL Server Manage
 
 ---
 
-#### Github overview
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewpeterbailey&layout=compact)](https://github.com/matthewpeterbailey)
-
-
 #### Get in touch:
 
-[![Twitter][1]][2] [![Instagram][3]][4] [![LinkedIn][5]][6] [![Work][7]][8]
+[![Twitter][1 width="200" height="400"]][2] [![Instagram][3]][4] [![LinkedIn][5]][6] [![Work][7]][8]
 
-[1]: https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Twitter.PNG
+[1]: https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Twitter.PNG 
 [2]: https://twitter.com/mattbaileydev "Go to twitter"
 [3]: https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Instagram.PNG
 [4]: https://www.instagram.com/chemicalspaceman/?hl=en "Go to Instagram"
@@ -46,4 +39,3 @@ Github, Sourcetree, Postman, VS Code, Visual Studio, Microsoft SQL Server Manage
 [7]: https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Work.PNG
 [8]: https://www.plymouth.ac.uk/staff/matthew-bailey "Go to PenCTU"
 
-![Footer](https://github.com/matthewpeterbailey/matthewpeterbailey/blob/master/Images/Footer.jpg)
