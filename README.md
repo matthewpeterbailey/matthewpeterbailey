@@ -8,7 +8,7 @@ I am software developer leading the development team at PenCTU (Peninsula Clinin
 
 ###### Frameworks/ Languages used in current role:
 
-Angular 9 (TS), Azure Function Apps (C#), Express/ Node (JS/ TS), Webforms (VB), SQL
+Angular (TS), Azure Function Apps (C#), Express/ Node (JS/ TS), Webforms (VB), SQL
 
 ###### Tech used in current role:
 
